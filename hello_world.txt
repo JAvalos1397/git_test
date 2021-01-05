@@ -1,0 +1,5 @@
+<!Doctype>
+    <html>
+        <title>Hello_World</title>
+        <p>This is the start of my education with html</p>
+</html>
